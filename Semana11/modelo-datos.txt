@@ -1,0 +1,25 @@
+Entidad 1: Causa
+
+Campos principales:
+- ID de la causa
+- nombre
+- descripción
+- categoría
+- estado
+- fecha
+
+Propósito de la información:
+Almacenar la información de las causas comunitarias para que las personas puedan conocerlas y apoyarlas.
+
+
+Entidad 2: Apoyo
+Campos principales:
+- ID del apoyo
+ nombre del colaborador
+ tipo de apoyo (dinero, alimentos,voluntariado)
+- cantidad
+- fecha
+
+Propósito:
+Registrar los apoyos realizados a cada causa
+y llevar un control de las contribuciones.
